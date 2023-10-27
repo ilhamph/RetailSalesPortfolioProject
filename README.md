@@ -5,6 +5,9 @@ This dataset is a snapshot of a fictional retail landscape, capturing essential 
 
 The tools that I use in this project are Microsoft Excel, MySQL, and Tableau.
 
+Kaggle link:
+https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
+
 Tableau link:
 https://public.tableau.com/views/Retailsalesdataset1/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 https://public.tableau.com/views/Retailsalesdataset2/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
